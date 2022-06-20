@@ -1,3 +1,6 @@
+// Deve-se inserir respectivamente: data, quantidade de cães pequenos e quantidade de cães grandes
+// Ex:  node teste.js 03/08/2018 3 5
+
 //Funções
 
 const isWeekend = (date)=>{
